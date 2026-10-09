@@ -57,12 +57,6 @@ Enter an integer: 17
 17 is prime.
 ```
 
-## Learning goals
-
-- Practice writing methods and returning values
-- Use conditionals and loops to solve small problems
-- Handle invalid console input
-- Learn to test edge cases, including zero, negative values, and invalid menu choices
 
 ## Suggested next steps
 
